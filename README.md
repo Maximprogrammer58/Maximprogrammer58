@@ -89,6 +89,9 @@
 
 ---
 
+## 💘 Personal touch
+✨ **Свёл девушку с ума**
+
 ## 🚀 Interests
 
 - Systems programming  
