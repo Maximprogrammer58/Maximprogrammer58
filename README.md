@@ -88,10 +88,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
-
-## 💘 Personal touch
-✨ **Свёл девушку с ума**
-
 ## 🚀 Interests
 
 - Systems programming  
